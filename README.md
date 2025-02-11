@@ -118,4 +118,10 @@ pip install -r requirements.txt
 ```
 ---
 
-Let me know if you need any additional modifications or if something needs further clarification!
+
+
+Run the project by using app.py  OR  main.py+process.py
+
+
+
+
