@@ -1,0 +1,7 @@
+pdfplumber
+pandas
+langchain
+langchain_groq
+openpyxl
+python-dotenv
+xlsxwriter
